@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/cdb339b1-af5d-4dc8-a192-f1f4640a4782)# Promise-Async-Await-Alura
+# Promise-Async-Await-Alura
 Aprendendo de uma forma prática sobre promise, async e await.
 
 Projeto Figma: https://www.figma.com/community/file/1410409546403062951
